@@ -23,3 +23,17 @@ code {
   color: black;
   font-size: 20px;
 }
+
+.titulo {
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(98, 80, 255);
+  font-family:'Times New Roman', Times, serif;
+}
+
+.IL {
+  color: rgb(98, 80, 255);
+  padding: 20px;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

@@ -1,16 +1,14 @@
 import './App.css';
+import ItemListContainer from './components/ItemListContainer';
 import MUNavBar from './components/MUNavBar';
-import MyComponent from './components/MyComponent/MyComponent';
-import NavBar from "./components/NavBar";
-import RBsNavBar from "./components/RBsNavBar";
+
+
 
 function App() {
   return (
     <>
-    
     <MUNavBar />
-    <MyComponent />
-    
+    <ItemListContainer />
   </>
   );
 }
